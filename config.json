@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsdender",
+        "uuid": 10101381,
+        "checksum": "2wpn8"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
